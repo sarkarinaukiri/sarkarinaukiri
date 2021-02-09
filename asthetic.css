@@ -1,0 +1,6 @@
+h1{color:blue;}
+h3{background-color:coral;}
+h3{padding:50px;
+border:10px solid black;
+margin:20px;}
+tr,th{padding:10px;border:1px solid black;margin:10px;border-collapse:collapse;}
